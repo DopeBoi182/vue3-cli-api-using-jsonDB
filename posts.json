@@ -1,40 +1,28 @@
 {
   "data": [
     {
-      "id": 3,
+      "id": 0,
       "judul": "Halo Dunia",
       "isi": "Hallo test ",
       "gambar": "https://asset.kompas.com/crops/SEVx33iNtON6h-FwhnZXuLkg1LQ=/0x0:2700x1800/750x500/data/photo/2021/05/04/60903e429019e.jpg"
     },
     {
-      "id": 4,
-      "judul": "judul",
+      "id": 1,
+      "judul": "Belajar Pemrograman Itu Asik",
       "isi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "gambar": "https://asset.kompas.com/crops/SEVx33iNtON6h-FwhnZXuLkg1LQ=/0x0:2700x1800/750x500/data/photo/2021/05/04/60903e429019e.jpg"
     },
     {
-      "id": 5,
-      "judul": "Loh apa",
+      "id": 2,
+      "judul": "Gimana sih cara untuk menangkap ubur-ubur",
       "isi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "gambar": "https://asset.kompas.com/crops/SEVx33iNtON6h-FwhnZXuLkg1LQ=/0x0:2700x1800/750x500/data/photo/2021/05/04/60903e429019e.jpg"
     },
     {
-      "id": 6,
-      "judul": "JUDUL LAGI",
+      "id": 3,
+      "judul": "Bikini Bottom Lockdown!",
       "isi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "gambar": "https://asset.kompas.com/crops/SEVx33iNtON6h-FwhnZXuLkg1LQ=/0x0:2700x1800/750x500/data/photo/2021/05/04/60903e429019e.jpg"
-    },
-    {
-      "id": 7,
-      "judul": "JUDUL LAGI",
-      "isi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "gambar": "https://asset.kompas.com/crops/SEVx33iNtON6h-FwhnZXuLkg1LQ=/0x0:2700x1800/750x500/data/photo/2021/05/04/60903e429019e.jpg"
-    },
-    {
-      "id": 9,
-      "judul": "Yaa hallooo ",
-      "isi": "awdawdawdawdwad",
-      "gambar": "https://asset.kompas.com/crops/jLDNd6J6dUXJROvpHMCQasGEuxs=/0x0:1280x853/750x500/data/photo/2021/03/19/6053ad52dbad1.jpg"
     }
   ],
   "user": {
