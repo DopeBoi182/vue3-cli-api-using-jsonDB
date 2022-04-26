@@ -57,7 +57,7 @@ router.post("/insertpost", async (req, res) => {
 				id: id,
 				judul: req.body.judul,
 				isi: req.body.isi,
-				gambar: req.body.gambar
+				gambar: req.body.gambar ? req.body.gambar : null
 			}
 			obj = JSON.parse(data); //now it an object
 			obj.data.push(temp); //add some data
